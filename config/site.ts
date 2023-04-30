@@ -7,6 +7,6 @@ export const siteConfig: SiteConfig = {
   url: '',
   links: {
     twitter: 'https://twitter.com/MrBarracuda28',
-    github: 'https://github.com/MrBarracuda',
+    github: 'https://github.com/MrBarracuda/Front-End-Friend',
   },
 }

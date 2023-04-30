@@ -1,7 +1,11 @@
+import Hero from '@/components/hero'
+import Subscription from '@/components/subscription'
+
 export default function Home() {
   return (
     <main>
-      <h1>Init commit</h1>
+      <Hero />
+      <Subscription />
     </main>
   )
 }

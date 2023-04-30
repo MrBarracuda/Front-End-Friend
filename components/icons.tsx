@@ -12,7 +12,10 @@ import {
   Image,
   Laptop,
   Loader2,
+  Languages,
+  Code2,
   LucideProps,
+  Home,
   Moon,
   MoreVertical,
   Pizza,
@@ -36,7 +39,9 @@ export const Icons = {
   chevronRight: ChevronRight,
   trash: Trash,
   post: FileText,
+  test: Code2,
   page: File,
+  home: Home,
   media: Image,
   settings: Settings,
   billing: CreditCard,
@@ -50,6 +55,7 @@ export const Icons = {
   sun: SunMedium,
   moon: Moon,
   laptop: Laptop,
+  languages: Languages,
   gitHub: ({ ...props }: LucideProps) => (
     <svg
       aria-hidden="true"
